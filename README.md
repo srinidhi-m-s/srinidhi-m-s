@@ -32,7 +32,7 @@ const srinidhi = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-### Tech Stats:
+### GitHub Stats:
 
 <img src="https://github-profile-trophy.vercel.app/?username=srinidhi-m-s&theme=tokyonight&no-frame=true&margin-w=5&title=Commits,Experience,Followers,Repositories" alt="Trophies" height="200" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinidhi-m-s&layout=compact&theme=tokyonight" alt="Top Langs" height="200"/>
