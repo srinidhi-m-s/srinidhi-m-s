@@ -35,9 +35,9 @@ const srinidhi = {
 ### GitHub Stats:
 
 <img src="https://github-profile-trophy.vercel.app/?username=srinidhi-m-s&theme=tokyonight&no-frame=true&margin-w=5&title=Commits,Experience,Followers,Repositories" alt="Trophies" height="200" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinidhi-m-s&layout=compact&theme=tokyonight" alt="Top Langs" height="200"/>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinidhi-m-s&layout=compact&theme=tokyonight" alt="Top Langs" height="200"/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=srinidhi-m-s&theme=tokyonight" alt="GitHub Streak" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api?username=srinidhi-m-s&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Srinidhi's GitHub stats" height="200"/>
 </div>
